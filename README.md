@@ -15,6 +15,7 @@ Este proyecto tiene como objetivo analizar el fenómeno de la **fuga de clientes
 * **Santiago Valentin Toledo** — Redacción de README, fundamentación de negocio y clasificación de variables.
 * **Javier** — Setup inicial del repositorio, estructura de carpetas y limpieza de datos.
 * **Sebastian** — Matriz de correlación, heatmap y auditoría de reproducibilidad.
+* **Juan Antuñez** — Manipulación de datos, transformaciones, análisis de outliers (IQR/Boxplots) y Análisis Exploratorio de Datos (EDA).
 
 
 ##  Stack Tecnológico
