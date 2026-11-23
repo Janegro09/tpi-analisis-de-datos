@@ -14,7 +14,7 @@ Este proyecto tiene como objetivo analizar el fenómeno de la **fuga de clientes
 ##  Nómina de Integrantes y Roles
 * **Santiago Valentin Toledo** — Redacción de README, fundamentación de negocio y clasificación de variables.
 * **Javier** — Setup inicial del repositorio, estructura de carpetas y limpieza de datos.
-* **Sebastian** — Matriz de correlación, heatmap y auditoría de reproducibilidad.
+* **Sebastian Safatle** — Matriz de correlación, heatmap y auditoría de reproducibilidad.
 * **Juan Antuñez** — Manipulación de datos, transformaciones, análisis de outliers (IQR/Boxplots) y Análisis Exploratorio de Datos (EDA).
 
 
@@ -22,6 +22,7 @@ Este proyecto tiene como objetivo analizar el fenómeno de la **fuga de clientes
 El proyecto se desarrolla íntegramente en **Python**, utilizando las siguientes librerías de análisis y visualización de datos:
 * **Pandas & NumPy:** Manipulación, limpieza y estructuración de datos tabulares.
 * **Seaborn & Matplotlib:** Generación de gráficos estadísticos (histogramas, KDE, mapas de calor).
+* **SciPy:** Cálculo de la significancia estadística (p-valor) de las correlaciones de Pearson.
 * **Google Colab:** Entorno de ejecución interactivo para garantizar la reproducibilidad.
 
 
