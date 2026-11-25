@@ -13,9 +13,10 @@ Este proyecto tiene como objetivo analizar el fenómeno de la **fuga de clientes
 
 ##  Nómina de Integrantes y Roles
 * **Santiago Valentin Toledo** — Redacción de README, fundamentación de negocio y clasificación de variables.
-* **Javier** — Setup inicial del repositorio, estructura de carpetas y limpieza de datos.
-* **Sebastian Safatle** — Matriz de correlación, heatmap y auditoría de reproducibilidad.
+* **Javier Sosa** — Setup inicial del repositorio, estructura de carpetas y limpieza de datos.
 * **Juan Antuñez** — Manipulación de datos, transformaciones, análisis de outliers (IQR/Boxplots) y Análisis Exploratorio de Datos (EDA).
+* **Alejo Miceli** — Visualización de datos (histogramas, KDE, gráficos de Churn por categorías) e Informe Técnico-Ejecutivo (PDF).
+* **Sebastian Safatle** — Matriz de correlación, heatmap y auditoría de reproducibilidad.
 
 
 ##  Stack Tecnológico
