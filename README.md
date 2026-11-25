@@ -2,9 +2,7 @@
 
 # TPI - Introducción al Análisis de Datos
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Janegro09/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
-
-</div>
+[![Open In Colab](https://colab.research.google.com/github/Janegro09/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
 
 
 ##  Descripción del Problema
@@ -33,7 +31,8 @@ El proyecto se desarrolla íntegramente en **Python**, utilizando las siguientes
 │   ├── raw/                 # Dataset original sin procesar (WA_Fn-UseC_-Telco-Customer-Churn.csv)
 │   └── processed/           # Dataset depurado y transformado
 ├── notebooks/               # Jupyter / Colab notebooks oficiales del análisis
-├── docs/                    # Documentación formal e informes técnico-ejecutivos (PDF)
+├── docs/                    # Documentación formal e informe técnico-ejecutivo (INFORME_EJECUTIVO.pdf)
+├── presentation/            # Presentación para la defensa oral (Presentacion_TPI_Telco_Churn.pptx)
 ├── .gitignore
 └── README.md
 ```
